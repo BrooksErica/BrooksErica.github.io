@@ -5,7 +5,7 @@ permalink: /
 subtitle: “The key to artificial intelligence has always been the representation.” --Jeff Hawkins
 
 profile:
-  align: center
+  align: right
   image: EJ_Brooks2.jpeg
   image_circular: true # crops the image to make it circular
   more_info: >
@@ -29,7 +29,7 @@ latest_posts:
 
 Hi, I’m Erica, a data enthusiast with a background in computer science and a soon-to-be graduate with a Master’s in Data Science (April 2025). Currently, I work in the pharmaceutical industry as a Quality Software Systems Specialist, but my true passion lies in uncovering insights from data and building intelligent systems.
 
-My expertise spans Python, R, SQL, and SAS, and my interests are deeply rooted in machine learning, NLP, and autonomous agents. I enjoy tackling complex problems, whether it’s training deep learning models or aligning AI with human values. Put your address / P.O. box / other info right below your picture.
+My skills include Python, R, SQL, and SAS, and my interests are deeply rooted in machine learning, NLP, and autonomous agents. I enjoy tackling complex problems, whether it’s training deep learning models or aligning AI with human values.
 
 For my master’s capstone, I’m diving into Voice Biometric Authentication, leveraging vector embeddings and large language models (LLMs) to enhance security and verification systems. I’ve also worked on a dense neural network for classification case study and explored AI alignment with human values in a research project.
 
