@@ -9,8 +9,9 @@ profile:
   image: EJ_Brooks2.jpeg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Erica J Brooks</p>
-    <p>Data Scientist | Greenville, SC</p>
+    <p>Erica J. Brooks</p>
+    <p>Data Scientist</p> 
+    <p>Greenville, SC</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
