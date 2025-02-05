@@ -5,8 +5,8 @@ permalink: /
 subtitle: “The key to artificial intelligence has always been the representation.” --Jeff Hawkins
 
 profile:
-  align: left
-  image: EJ_Brooks.jpeg
+  align: center
+  image: EJ_Brooks2.jpeg
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>Erica J Brooks</p>
