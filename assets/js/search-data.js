@@ -450,6 +450,11 @@ ninja.data = [{
           description: "Spam or No Spam Filtering Classifier Model",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Case-Study-1/";
+            },},{id: "projects-neural-network-model",
+          title: 'Neural Network Model',
+          description: "Dense Neural Network Prediction Model",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Case-Study-2/";
             },},{
         id: 'social-email',
         title: 'email',
