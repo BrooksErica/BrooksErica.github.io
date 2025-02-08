@@ -465,6 +465,11 @@ ninja.data = [{
           description: "CNN Model for MNIST Dataset Creation and Training",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Project-1/";
+            },},{id: "projects-grid-search",
+          title: 'Grid Search',
+          description: "Hyperparameter Tuning and Model Evaluation using Cross-Validation",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Project-2/";
             },},{
         id: 'social-email',
         title: 'email',
