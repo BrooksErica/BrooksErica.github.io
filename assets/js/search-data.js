@@ -455,6 +455,11 @@ ninja.data = [{
           description: "Dense Neural Network Prediction Model",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Case-Study-2/";
+            },},{id: "projects-svm-and-stochastic-gradient-descent",
+          title: 'SVM and Stochastic Gradient Descent',
+          description: "Classification of Firewall Log Files",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Case-Study-3/";
             },},{
         id: 'social-email',
         title: 'email',
