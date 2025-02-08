@@ -460,6 +460,11 @@ ninja.data = [{
           description: "Classification of Firewall Log Files",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Case-Study-3/";
+            },},{id: "projects-transfer-learning",
+          title: 'Transfer Learning',
+          description: "CNN Model for MNIST Dataset Creation and Training",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Project-1/";
             },},{
         id: 'social-email',
         title: 'email',
