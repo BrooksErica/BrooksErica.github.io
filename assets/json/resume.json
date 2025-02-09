@@ -1,14 +1,14 @@
 {
   "basics": {
     "name": "Erica Brooks",
-    "title": "Data Scientist",
-    "location": "Greenville, SC 29605",
-    "contact": {
-      "phone": "864-625-0938",
-      "email": "brooksej.data@gmail.com",
-      "website": "https://brookserica.github.io/",
-      "linkedin": "www.linkedin.com/in/ej-brooks"
-    }
+    "label": "Data Scientist",
+    "phone": "864-625-0938",
+    "email": "brooksej.data@gmail.com",
+    "url": "https://brookserica.github.io/",
+    "location": {
+      "city": "Greenville, SC",
+      "countryCode": "US"
+    },
   },
   
   "skills": {
