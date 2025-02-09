@@ -22,7 +22,7 @@
       }
     ]
   },
-  "work": [
+  "work": {
     {
       "name": "Bausch & Lomb",
       "position": "Quality Software Specialist",
@@ -52,8 +52,8 @@
       "summary": "",
       "highlights": ["Data Center ‑ Monitor system performance, application batch processing, batch reruns, hardware failures and restore systems."]
     }
-  ],
-  "volunteer": 
+  },
+  "volunteer": [
     {
       "organization": "People's Climate March",
       "location": "Zurich, Switzerland",
@@ -65,7 +65,7 @@
       "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
     }
   ],
-  "education": [
+  "education": {
     {
       "institution": "East Tennessee State Univesity",
       "location": "Johnson City, TN",
@@ -85,7 +85,7 @@
       "startDate": "2023-05",
       "endDate": "2025-05"
     }
-  ],
+  },
   "awards": [
     {
       "title": "Nobel Prize in Physics",
@@ -95,7 +95,7 @@
       "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
     }
   ],
-  "certificates": [
+  "certificates": {
     {
       "name": "Project Management Professional, PMP",
       "date": "2022-04",
@@ -103,7 +103,7 @@
       "url": "",
       "icon": "fa-solid fa-location-dot"
     }
-  ],
+  },
   
   "publications": [
     {
