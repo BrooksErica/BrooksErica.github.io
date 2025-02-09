@@ -4,14 +4,31 @@
     "label": "Data Scientist",
     "phone": "864-625-0938",
     "email": "brooksej.data@gmail.com",
-    "url": "https://brookserica.github.io/",
+    "link": "https://brookserica.github.io/",
     "location": {
       "city": "Greenville, SC",
       "countryCode": "US"
     }
   },
   
-  "skills": {
+  
+  "education": {
+      "institution": "Southern Methodist University",
+      "location": "Dallas, TX",
+      "degree": "M.S. in Data Science",
+      "GPA": 3.5,
+      "years": "2023 - 2025"
+    },
+    {
+      "institution": "East Tennessee State University",
+      "location": "Johnson City, TN",
+      "degree": "B.S. in Computer Science",
+      "minor": "Management",
+      "years": "2002 - 2005"
+    },
+    
+    
+    "skills": {
     "programming": ["Python", "R", "SQL", "SAS", "LaTex"],
     "packages": [
       "NumPy", "Tensorflow", "Keras", "PyTorch", "Pandas", "Matplotlib",
@@ -27,21 +44,9 @@
       "Generative Adversarial Networks (GAN)", "Reinforcement Learning (RL)"
     ]
   },
-  
-  "education": [{
-      "institution": "Southern Methodist University",
-      "location": "Dallas, TX",
-      "degree": "M.S. in Data Science",
-      "GPA": 3.5,
-      "years": "2023 - 2025"
-    },
-    {
-      "institution": "East Tennessee State University",
-      "location": "Johnson City, TN",
-      "degree": "B.S. in Computer Science",
-      "minor": "Management",
-      "years": "2002 - 2005"
-    }],
+    
+    
+    
     
   "projects": [{
       "title": "Voice Biometric Authentication",
@@ -86,7 +91,7 @@
       "dates": "Sept 2005 - Nov 2013"
     }],
     
-  "certifications": [{
+  "certificates": [{
       "name": "Project Management Professional (PMP)",
       "issuer": "Project Management Institute",
       "validity": "April 2022 - April 2025"
