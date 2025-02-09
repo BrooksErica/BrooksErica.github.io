@@ -627,12 +627,12 @@ jsonresume:
   - basics
   - work
   - education
-  - publications
+  #- publications
   - projects
-  - volunteer
-  - awards
+  #- volunteer
+  #- awards
   - certificates
   - skills
   - languages
-  - interests
-  - references
+  #- interests
+  #- references
