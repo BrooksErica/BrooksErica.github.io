@@ -1,13 +1,16 @@
 {
-  "name": "Erica Brooks",
-  "title": "Data Scientist",
-  "location": "Greenville, SC 29605",
-  "contact": {
-    "phone": "864-625-0938",
-    "email": "brooksej.data@gmail.com",
-    "website": "https://brookserica.github.io/",
-    "linkedin": "www.linkedin.com/in/ej-brooks"
+  "basics": {
+    "name": "Erica Brooks",
+    "title": "Data Scientist",
+    "location": "Greenville, SC 29605",
+    "contact": {
+      "phone": "864-625-0938",
+      "email": "brooksej.data@gmail.com",
+      "website": "https://brookserica.github.io/",
+      "linkedin": "www.linkedin.com/in/ej-brooks"
+    }
   },
+  
   "skills": {
     "programming": ["Python", "R", "SQL", "SAS", "LaTex"],
     "packages": [
@@ -24,8 +27,8 @@
       "Generative Adversarial Networks (GAN)", "Reinforcement Learning (RL)"
     ]
   },
-  "education": [
-    {
+  
+  "education": [{
       "institution": "Southern Methodist University",
       "location": "Dallas, TX",
       "degree": "M.S. in Data Science",
@@ -38,10 +41,9 @@
       "degree": "B.S. in Computer Science",
       "minor": "Management",
       "years": "2002 - 2005"
-    }
-  ],
-  "projects_research": [
-    {
+    }],
+    
+  "projects": [{
       "title": "Voice Biometric Authentication",
       "role": "Author | Capstone Project",
       "links": {
@@ -63,10 +65,9 @@
       "links": {
         "github": "https://github.com/BrooksErica/Projects.git"
       }
-    }
-  ],
-  "employment": [
-    {
+    }],
+    
+  "work": [{
       "company": "Bausch + Lomb",
       "location": "Greenville, SC",
       "position": "Quality Software Specialist",
@@ -83,13 +84,11 @@
       "location": "Anderson, SC",
       "position": "Lead Computer Operator II",
       "dates": "Sept 2005 - Nov 2013"
-    }
-  ],
-  "certifications": [
-    {
+    }],
+    
+  "certifications": [{
       "name": "Project Management Professional (PMP)",
       "issuer": "Project Management Institute",
       "validity": "April 2022 - April 2025"
-    }
-  ]
+    }]
 }
