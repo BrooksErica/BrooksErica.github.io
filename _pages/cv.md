@@ -5,7 +5,7 @@ title: cv/resume
 nav: true
 nav_order: 1
 cv_pdf: EJ_Brooks_Resume.pdf # you can also use external links here
-description: This is my cv/resume.
+description: Please click PDF file for more information.
 toc:
   sidebar: left
 ---
