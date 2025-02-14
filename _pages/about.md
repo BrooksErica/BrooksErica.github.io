@@ -6,7 +6,7 @@ subtitle: “The key to artificial intelligence has always been the representati
 
 profile:
   align: right
-  image: EJ_Brooks2.jpeg
+  image: EJ_profile.jpeg
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>Erica J. Brooks<br>Data Scientist<br>Greenville, SC</p>
