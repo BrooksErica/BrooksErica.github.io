@@ -31,6 +31,6 @@ My skills include Python, R, SQL, and SAS, and my interests are deeply rooted in
 
 For my master’s capstone, I’m diving into Voice Biometric Authentication, leveraging vector embeddings and large language models (LLMs) to enhance security and verification systems. I’ve also worked on a dense neural network for classification case study and explored AI alignment with human values in a research project.
 
-As I transition into the field, I’m looking for entry-level or associate data science roles with a focus on machine learning. I thrive on working with real-world data, solving problems, and continuously learning to push the boundaries of AI-driven solutions.
+As I transition into the field, I’m looking for machine learning engineer and data science roles with a focus on machine learning. I thrive on working with real-world data, solving problems, and continuously learning to push the boundaries of AI-driven solutions.
 
 Let’s connect—I'd love to collaborate, learn, and contribute to impactful data science projects!
