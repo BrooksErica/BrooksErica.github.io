@@ -456,6 +456,11 @@ ninja.data = [{
           description: "Hyperparameter Tuning and Model Evaluation using Cross-Validation",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Project-2/";
+            },},{id: "projects-dense-neural-network-for-predicting-class",
+          title: 'Dense Neural Network for Predicting Class',
+          description: "Binary classification",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Project-3/";
             },},{
         id: 'social-email',
         title: 'email',
