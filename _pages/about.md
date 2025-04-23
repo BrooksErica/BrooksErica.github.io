@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I’m Erica, a data enthusiast with a background in computer science and a soon-to-be graduate with a Master’s in Data Science (April 2025). Currently, I work in the pharmaceutical industry as a Quality Software Systems Specialist, but my true passion lies in uncovering insights from data and building intelligent systems.
+Hi, I’m Erica, a data enthusiast with a background in computer science and a soon-to-be graduate with a Master’s in Data Science (May 2025). Currently, I work in the pharmaceutical industry as a Quality Software Systems Specialist, but my true passion lies in uncovering insights from data and building intelligent systems.
 
 My skills include Python, R, SQL, and SAS, and my interests are deeply rooted in machine learning, NLP, and autonomous agents. I enjoy tackling complex problems, whether it’s training deep learning models or aligning AI with human values.
 
