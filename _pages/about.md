@@ -25,12 +25,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I’m Erica, a data enthusiast with a background in computer science and a soon-to-be graduate with a Master’s in Data Science (May 2025). Currently, I work in the pharmaceutical industry as a Quality Software Systems Specialist, but my true passion lies in uncovering insights from data and building intelligent systems.
-
-My skills include Python, R, SQL, and SAS, and my interests are deeply rooted in machine learning, NLP, and autonomous agents. I enjoy tackling complex problems, whether it’s training deep learning models or aligning AI with human values.
-
-For my master’s capstone, I’m diving into Voice Biometric Authentication, leveraging vector embeddings and large language models (LLMs) to enhance security and verification systems. I’ve also worked on a dense neural network for classification case study and explored AI alignment with human values in a research project.
-
-As I transition into the field, I’m looking for machine learning engineer and data science roles with a focus on machine learning. I thrive on working with real-world data, solving problems, and continuously learning to push the boundaries of AI-driven solutions.
-
-Let’s connect—I'd love to collaborate, learn, and contribute to impactful data science projects!
+I am a Machine Learning Engineer with a strong background in building and deploying AI solutions in regulated industries. 
+My work spans voice biometric authentication, NLP-powered knowledge management, and reinforcement learning trading systems. 
+I specialize in designing production-ready machine learning applications with a focus on model validation, MLOps, and compliance alignment.
