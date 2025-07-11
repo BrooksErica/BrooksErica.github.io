@@ -9,7 +9,7 @@ profile:
   image: EJ_profile.jpeg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Erica J. Brooks<br>Data Scientist<br>Greenville, SC</p>
+    <p>Erica J. Brooks<br>Machine Learning Engineer<br>NLP|MLOps|Biometric AI Solutions<br>Greenville, SC</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -28,3 +28,5 @@ latest_posts:
 I am a Machine Learning Engineer with a strong background in building and deploying AI solutions in regulated industries. 
 My work spans voice biometric authentication, NLP-powered knowledge management, and reinforcement learning trading systems. 
 I specialize in designing production-ready machine learning applications with a focus on model validation, MLOps, and compliance alignment.
+
+I’m passionate about developing trustworthy AI systems that drive real-world impact.
