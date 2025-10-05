@@ -438,6 +438,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-care-gap-amp-hcp-segmentation",
+          title: 'Care Gap &amp;amp; HCP Segmentation',
+          description: "Full Analytics Pipeline",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Care-Gap-Case-Study/";
             },},{id: "projects-classifier-model",
           title: 'Classifier Model',
           description: "Spam or No Spam Filtering Classifier Model",
