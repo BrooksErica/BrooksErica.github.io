@@ -3,7 +3,7 @@ layout: page
 title: Classifier Model
 description: Spam or No Spam Filtering Classifier Model
 img: assets/img/case-study.png
-importance: 1
+importance: 2
 category: case study
 related_publications: false
 ---

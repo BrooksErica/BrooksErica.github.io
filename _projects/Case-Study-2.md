@@ -3,7 +3,7 @@ layout: page
 title: Neural Network Model
 description: Dense Neural Network Prediction Model
 img: assets/img/case-study.png
-importance: 2
+importance: 3
 category: case study
 related_publications: false
 ---
